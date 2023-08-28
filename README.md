@@ -1,11 +1,12 @@
 
 
 ```markdown
-# Nationalize App
+
+### Nationalize App
 
 The Nationalize App is a simple Flask web application that predicts the nationality and probability of a given name using the [Nationalize.io API](https://api.nationalize.io/).
 
-## Getting Started
+### Getting Started
 
 These instructions will guide you through setting up and running the Nationalize App locally on your machine.
 
