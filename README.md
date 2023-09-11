@@ -57,7 +57,8 @@ These instructions will guide you through setting up and running the Nationalize
 
 3. Enter a name in the input field and click the "Submit" button to get the predicted nationality and probability.
 
-   ![Capture d’écran 2023-09-11 à 15 18 02](https://github.com/Badry2022/name_nationality/assets/48650518/90dac832-00d2-47f3-bdfd-a5ccfe0cfc8a)
+![Capture d’écran 2023-09-11 à 15 19 38](https://github.com/Badry2022/name_nationality/assets/48650518/61a570b5-4ca5-4427-98cb-666bf3be96d0)
+
 
 
 ### Running Tests
